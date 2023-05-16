@@ -1,0 +1,3 @@
+﻿  secondHighestInArray.cpp
+E:\Github\Problem-Solving-C-\secondHighestInArray\secondHighestInArray.cpp(27,7): warning C4552: '+': result of expression not used
+  secondHighestInArray.vcxproj -> E:\Github\Problem-Solving-C-\secondHighestInArray\x64\Debug\secondHighestInArray.exe
